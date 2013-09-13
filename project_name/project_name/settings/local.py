@@ -5,6 +5,8 @@ from os.path import join, normpath
 
 from base import *
 
+# See: https://docs.djangoproject.com/en/dev/ref/settings/#use-tz
+USE_TZ = False
 
 ########## DEBUG CONFIGURATION
 # See: https://docs.djangoproject.com/en/dev/ref/settings/#debug
@@ -49,6 +51,7 @@ CACHES = {
 ########## TOOLBAR CONFIGURATION
 # See: https://github.com/django-debug-toolbar/django-debug-toolbar#installation
 INSTALLED_APPS += (
+    'django_extensions',
     # 'debug_toolbar',
 )
 
