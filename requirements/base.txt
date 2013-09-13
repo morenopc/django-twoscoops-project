@@ -1,6 +1,5 @@
-Django==1.5.2
-bpython==0.12
+Django==1.5.3
 django-braces==1.2.2
-django-model-utils==1.4.0
+django-model-utils
 logutils==0.3.3
-South==0.8.1
+South==0.8.2

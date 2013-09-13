@@ -1,6 +1,8 @@
 # Local development dependencies go here
 -r base.txt
-coverage==3.6
-django-discover-runner==0.4
-django-debug-toolbar==0.9.4
+ipython==1.1.0
+django_extensions==1.2.1
+nose
+django-nose
+nose-notify
 Sphinx==1.2b1

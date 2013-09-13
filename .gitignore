@@ -1,3 +1,6 @@
+# VirtualEnvionment files:
+env
+
 # Python bytecode:
 *.py[co]
 
