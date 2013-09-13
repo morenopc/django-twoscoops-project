@@ -77,7 +77,7 @@ Creating your project
 To create a new Django project called '**icecream**' using
 django-twoscoops-project, run the following command::
 
-    $ django-admin.py startproject --template=https://github.com/twoscoops/django-twoscoops-project/archive/master.zip --extension=py,rst,html icecream
+    $ django-admin.py startproject --template=https://github.com/morenopc/django-twoscoops-project/archive/master.zip --extension=py,rst,html icecream
 
 Installation of Dependencies
 =============================
@@ -101,4 +101,4 @@ Acknowledgements
 - Many thanks to Randall Degges for the inspiration to write the book and django-skel.
 - All of the contributors_ to this project.
 
-.. _contributors: https://github.com/twoscoops/django-twoscoops-project/blob/master/CONTRIBUTORS.txt
+.. _contributors: https://github.com/morenopc/django-twoscoops-project/blob/master/CONTRIBUTORS.txt
