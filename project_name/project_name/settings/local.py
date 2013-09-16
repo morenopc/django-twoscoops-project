@@ -5,8 +5,10 @@ from os.path import join, normpath
 
 from base import *
 
+########## TIMEZONE
 # See: https://docs.djangoproject.com/en/dev/ref/settings/#use-tz
 USE_TZ = False
+########## TIMEZONE
 
 ########## DEBUG CONFIGURATION
 # See: https://docs.djangoproject.com/en/dev/ref/settings/#debug
