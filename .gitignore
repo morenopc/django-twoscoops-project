@@ -19,3 +19,8 @@ build
 
 # Logs:
 *.log
+
+*.DS_Store
+
+# Media:
+media
